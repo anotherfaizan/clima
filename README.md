@@ -1,16 +1,18 @@
-# clima
+# Clima
 
-A new Flutter project.
+A Weather Forecast App giving us accurate weather information based on location to plan out our days.
+This application will show the temperature of a location.
 
-## Getting Started
+#### Snapshot from the app
 
-This project is a starting point for a Flutter application.
+<table>
+<tr>
+    <td><img src="https://user-images.githubusercontent.com/92578144/159896620-91193746-70a0-4b51-aa55-16f0f4a2a484.jpg" width=270 height=480></td>
+  </tr>
+  ![clima_vdo_gif](https://user-images.githubusercontent.com/92578144/159896923-710a51b5-936c-41c7-aa3d-1a0f8f802357.gif)
+</table>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
